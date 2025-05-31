@@ -7,11 +7,11 @@ export const metadata: Metadata = {
     template: '%s | Acme Dashboard',
     default: 'Acme Dashboard',
   },
-  description: 'The official Next.js Learn Dashboard built with App Router.',
+  description: 'Supercharge your business with Acme Dashboard — the all-in-one platform for real-time analytics, streamlined operations, and actionable insights. Make smarter decisions, faster.',
   metadataBase: new URL('https://next-learn-dashboard.vercel.sh'),
   openGraph: {
     title: 'Acme Dashboard',
-    description: 'The official Next.js Learn Dashboard built with App Router.',
+    description: 'Supercharge your business with Acme Dashboard — the all-in-one platform for real-time analytics, streamlined operations, and actionable insights. Make smarter decisions, faster.',
     images: [{
       url: '/opengraph-image.png',
       width: 1200,
@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Acme Dashboard',
-    description: 'The official Next.js Learn Dashboard built with App Router.',
+    description: 'Supercharge your business with Acme Dashboard — the all-in-one platform for real-time analytics, streamlined operations, and actionable insights. Make smarter decisions, faster.',
     images: ['/opengraph-image.png'],
   },
 };

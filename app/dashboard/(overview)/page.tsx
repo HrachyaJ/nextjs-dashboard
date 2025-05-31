@@ -8,7 +8,8 @@ import CardWrapper from '@/app/ui/dashboard/cards';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Dashboard',
+  title: 'Dashboard Overview',
+  description: 'Overview of your dashboard with key metrics and insights.',
 };
 
 export default async function Page() {
